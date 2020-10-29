@@ -3,7 +3,7 @@
 pkgname=termius
 pkgver=7.0.1
 pkgrel=1
-pkgdesc="An elegant GUI for Git."
+pkgdesc="Termius is the SSH client that works on Desktop and Mobile."
 arch=('x86_64')
 url="https://termius.com/"
 license=('Custom')
